@@ -1,0 +1,300 @@
+2025-10-02 15:00:27 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 15:00:27 [main] INFO  LoginTest - ----------------------Starting the validLoginTest------------------------
+2025-10-02 15:00:27 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 15:00:27 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 15:00:27 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 15:00:27 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 15:00:43 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 15:00:43 [main] INFO  LoginTest - ----------------------Starting the validLoginTest------------------------
+2025-10-02 15:00:43 [main] INFO  LoginTest - ----------------------Starting the validLoginTest------------------------
+2025-10-02 15:00:43 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 15:00:43 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 15:00:43 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 15:00:43 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 15:20:05 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 15:20:05 [main] INFO  LoginTest - ----------------------Starting the validLoginTest------------------------
+2025-10-02 15:20:05 [main] INFO  LoginTest - ----------------------Starting the validLoginTest------------------------
+2025-10-02 15:21:40 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 15:21:40 [main] INFO  LoginTest - ----------------------Starting the validLoginTest------------------------
+2025-10-02 15:21:40 [main] INFO  LoginTest - ----------------------Starting the validLoginTest------------------------
+2025-10-02 15:25:33 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 15:25:33 [main] INFO  LoginTest - ----------------------Starting the validLoginTest------------------------
+2025-10-02 15:25:33 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 15:25:34 [main] INFO  LoginPage - Entering the username: secret
+2025-10-02 15:25:34 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 15:25:34 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 15:25:34 [main] INFO  LoginTest - ----------------------Starting the validLoginTest------------------------
+2025-10-02 15:25:34 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 15:25:34 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 15:25:34 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 15:25:34 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 15:33:01 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 15:33:01 [main] INFO  LoginTest - ----------------------Starting the validLoginTest------------------------
+2025-10-02 15:33:01 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 15:33:01 [main] INFO  LoginPage - Entering the username: secret
+2025-10-02 15:33:01 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 15:33:02 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 15:33:02 [main] INFO  LoginTest - ----------------------Starting the validLoginTest------------------------
+2025-10-02 15:33:02 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 15:33:02 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 15:33:02 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 15:33:02 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 15:44:51 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 15:44:51 [main] INFO  LoginTest - ----------------------Starting the TC001:validLoginTest------------------------
+2025-10-02 15:44:51 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 15:44:51 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 15:44:51 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 15:44:51 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 15:44:51 [main] INFO  LoginTest - ----------------------Starting the TC002:invalidLoginTest------------------------
+2025-10-02 15:44:51 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 15:49:18 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 15:49:19 [main] INFO  LoginTest - ----------------------Starting the TC001:validLoginTest------------------------
+2025-10-02 15:49:19 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 15:49:19 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 15:49:19 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 15:49:19 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 15:49:19 [main] INFO  LoginTest - ----------------------Starting the TC002:invalidLoginTest------------------------
+2025-10-02 15:49:19 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 15:49:55 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 15:49:55 [main] INFO  LoginTest - ----------------------Starting the TC002:invalidLoginTest------------------------
+2025-10-02 15:49:55 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 15:49:55 [main] INFO  LoginPage - Entering the username: secret
+2025-10-02 15:49:55 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 15:49:55 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 15:49:55 [main] INFO  LoginTest - ----------------------Starting the TC001:validLoginTest------------------------
+2025-10-02 15:49:55 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 15:49:55 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 15:49:55 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 15:49:56 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 16:08:29 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 16:08:29 [main] INFO  LoginTest - ----------------------Starting the TC002:invalidLoginTest------------------------
+2025-10-02 16:08:29 [main] INFO  LoginTest - ----------------------Starting the TC001:validLoginTest------------------------
+2025-10-02 16:08:29 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 16:08:29 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 16:08:29 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 16:08:29 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 16:10:04 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 16:10:04 [main] INFO  LoginTest - ----------------------Starting the TC002:invalidLoginTest------------------------
+2025-10-02 16:10:04 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 16:10:04 [main] INFO  LoginPage - Entering the username: secret
+2025-10-02 16:10:04 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 16:10:04 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 16:10:04 [main] INFO  LoginTest - ----------------------Starting the TC001:validLoginTest------------------------
+2025-10-02 16:10:04 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 16:10:04 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 16:10:04 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 16:10:04 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 16:10:23 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 16:10:23 [main] INFO  LoginTest - ----------------------Starting the TC001:validLoginTest------------------------
+2025-10-02 16:10:23 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 16:10:23 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 16:10:23 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 16:10:23 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 16:10:23 [main] INFO  LoginTest - ----------------------Starting the TC002:invalidLoginTest------------------------
+2025-10-02 16:10:23 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 20:36:22 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 20:36:22 [main] INFO  LoginTest - ----------------------Starting the TC001:validLoginTest------------------------
+2025-10-02 20:36:22 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 20:36:23 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 20:36:23 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 20:36:23 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 20:36:23 [main] INFO  LoginTest - ----------------------Starting the TC002:invalidLoginTest------------------------
+2025-10-02 20:36:23 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 20:53:47 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 20:53:47 [main] INFO  LoginTest - ----------------------Starting the TC001:validLoginTest------------------------
+2025-10-02 20:53:47 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 20:53:47 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 20:53:47 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 20:53:48 [main] INFO  LoginTest - Test Case Passsed
+2025-10-02 20:53:48 [main] INFO  LoginPage - Clicking burger menu
+2025-10-02 20:53:48 [main] INFO  LoginPage - Clicking Logout button
+2025-10-02 20:53:48 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 20:53:48 [main] INFO  LoginTest - ----------------------Starting the TC002:invalidLoginTest------------------------
+2025-10-02 20:53:48 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 20:53:48 [main] INFO  LoginPage - Entering the username: secret
+2025-10-02 20:53:48 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 20:53:49 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 20:59:46 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 20:59:46 [main] INFO  LoginTest - ----------------------Starting the TC001:validLoginTest------------------------
+2025-10-02 20:59:46 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 20:59:46 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 20:59:47 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 20:59:47 [main] INFO  LoginTest - Test Case Passsed
+2025-10-02 20:59:47 [main] INFO  LoginPage - Clicking burger menu
+2025-10-02 20:59:47 [main] INFO  LoginPage - Clicking Logout button
+2025-10-02 20:59:48 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 20:59:48 [main] INFO  LoginTest - ----------------------Starting the TC002:invalidLoginTest------------------------
+2025-10-02 20:59:48 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 20:59:48 [main] INFO  LoginPage - Entering the username: secret
+2025-10-02 20:59:48 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 20:59:48 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 21:03:38 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 21:03:38 [main] INFO  LoginTest - ----------------------Starting TC001:validLoginTest------------------------
+2025-10-02 21:03:38 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 21:03:38 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 21:03:39 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 21:03:39 [main] INFO  LoginTest - Test Case Passsed
+2025-10-02 21:03:39 [main] INFO  LoginPage - Clicking burger menu
+2025-10-02 21:03:39 [main] INFO  LoginPage - Clicking Logout button
+2025-10-02 21:03:39 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 21:03:39 [main] INFO  LoginTest - ----------------------Starting TC002:invalidLoginTest------------------------
+2025-10-02 21:03:39 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 21:03:39 [main] INFO  LoginPage - Entering the username: secret
+2025-10-02 21:03:40 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 21:03:40 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 21:07:42 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 21:07:42 [main] INFO  LoginTest - ----------------------Starting TC001:validLoginTest------------------------
+2025-10-02 21:07:42 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 21:07:42 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 21:07:43 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 21:07:43 [main] INFO  LoginTest - ----------------------Starting TC002:invalidLoginTest------------------------
+2025-10-02 21:07:43 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 21:10:50 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 21:10:50 [main] INFO  LoginTest - ----------------------Starting TC001:validLoginTest------------------------
+2025-10-02 21:10:50 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 21:10:50 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 21:10:50 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 21:10:50 [main] INFO  LoginTest - ----------------------Starting TC002:invalidLoginTest------------------------
+2025-10-02 21:10:50 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 21:11:20 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 21:11:20 [main] INFO  LoginTest - ----------------------Starting TC001:validLoginTest------------------------
+2025-10-02 21:11:20 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 21:11:21 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 21:11:21 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 21:11:21 [main] INFO  LoginTest - Test Case Passsed
+2025-10-02 21:11:21 [main] INFO  LoginPage - Clicking burger menu
+2025-10-02 21:11:21 [main] INFO  LoginPage - Clicking Logout button
+2025-10-02 21:11:21 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 21:11:21 [main] INFO  LoginTest - ----------------------Starting TC002:invalidLoginTest------------------------
+2025-10-02 21:11:21 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 21:11:21 [main] INFO  LoginPage - Entering the username: secret
+2025-10-02 21:11:22 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 21:11:22 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 21:13:12 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 21:13:12 [main] INFO  LoginTest - ----------------------Starting TC001:validLoginTest------------------------
+2025-10-02 21:13:12 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 21:13:12 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 21:13:12 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 21:13:13 [main] INFO  LoginTest - Test Case Passsed
+2025-10-02 21:13:13 [main] INFO  LoginPage - Clicking burger menu
+2025-10-02 21:13:13 [main] INFO  LoginPage - Clicking Logout button
+2025-10-02 21:13:13 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 21:13:13 [main] INFO  LoginTest - ----------------------Starting TC002:invalidLoginTest------------------------
+2025-10-02 21:13:13 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 21:13:13 [main] INFO  LoginPage - Entering the username: secret
+2025-10-02 21:13:13 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 21:13:13 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 21:14:18 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 21:14:19 [main] INFO  LoginTest - ----------------------Starting TC002:invalidLoginTest------------------------
+2025-10-02 21:14:19 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 21:14:19 [main] INFO  LoginPage - Entering the username: secret
+2025-10-02 21:14:19 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 21:14:19 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 21:14:19 [main] INFO  LoginTest - ----------------------Starting TC001:validLoginTest------------------------
+2025-10-02 21:14:19 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 21:14:19 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 21:14:19 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 21:14:20 [main] INFO  LoginTest - Test Case Passsed
+2025-10-02 21:14:20 [main] INFO  LoginPage - Clicking burger menu
+2025-10-02 21:14:20 [main] INFO  LoginPage - Clicking Logout button
+2025-10-02 21:14:20 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 21:49:45 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 21:49:45 [main] INFO  LoginTest - ----------------------Starting TC002:invalidLoginTest------------------------
+2025-10-02 21:49:45 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 21:49:46 [main] INFO  LoginPage - Entering the username: secret
+2025-10-02 21:49:46 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 21:49:46 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 21:49:46 [main] INFO  LoginTest - ----------------------Starting TC001:validLoginTest------------------------
+2025-10-02 21:49:46 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 21:49:46 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 21:49:46 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 21:49:47 [main] INFO  LoginTest - Test Case Passsed
+2025-10-02 21:49:47 [main] INFO  LoginPage - Clicking burger menu
+2025-10-02 21:49:47 [main] INFO  LoginPage - Clicking Logout button
+2025-10-02 21:49:47 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 21:50:06 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 21:50:06 [main] INFO  LoginTest - ----------------------Starting TC001:validLoginTest------------------------
+2025-10-02 21:50:06 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 21:50:06 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 21:50:06 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 21:50:07 [main] INFO  LoginTest - Test Case Passsed
+2025-10-02 21:50:07 [main] INFO  LoginPage - Clicking burger menu
+2025-10-02 21:50:07 [main] INFO  LoginPage - Clicking Logout button
+2025-10-02 21:50:07 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 21:50:07 [main] INFO  LoginTest - ----------------------Starting TC002:invalidLoginTest------------------------
+2025-10-02 21:50:07 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 21:50:07 [main] INFO  LoginPage - Entering the username: secret
+2025-10-02 21:50:07 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 21:50:07 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 21:52:11 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 21:52:11 [main] INFO  LoginTest - ----------------------Starting TC001:validLoginTest------------------------
+2025-10-02 21:52:11 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 21:52:11 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 21:52:11 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 21:52:12 [main] INFO  LoginTest - Test Case Passsed
+2025-10-02 21:52:12 [main] INFO  LoginPage - Clicking burger menu
+2025-10-02 21:52:12 [main] INFO  LoginPage - Clicking Logout button
+2025-10-02 21:52:12 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 21:52:12 [main] INFO  LoginTest - ----------------------Starting TC002:invalidLoginTest------------------------
+2025-10-02 21:52:12 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 21:52:12 [main] INFO  LoginPage - Entering the username: secret
+2025-10-02 21:52:12 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 21:52:12 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 21:56:45 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 21:56:45 [main] INFO  LoginTest - ----------------------Starting TC001:validLoginTest------------------------
+2025-10-02 21:56:45 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 21:56:45 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 21:56:45 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 21:56:46 [main] INFO  LoginTest - Test Case Passsed
+2025-10-02 21:56:46 [main] INFO  LoginPage - Clicking burger menu
+2025-10-02 21:56:46 [main] INFO  LoginPage - Clicking Logout button
+2025-10-02 21:56:46 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 21:56:46 [main] INFO  LoginTest - ----------------------Starting TC002:invalidLoginTest------------------------
+2025-10-02 21:56:46 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 21:56:46 [main] INFO  LoginPage - Entering the username: secret
+2025-10-02 21:56:46 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 21:56:46 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 21:57:00 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 21:57:00 [main] INFO  LoginTest - ----------------------Starting TC001:validLoginTest------------------------
+2025-10-02 21:57:00 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 21:57:01 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 21:57:01 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 21:57:01 [main] INFO  LoginTest - Test Case Passsed
+2025-10-02 21:57:01 [main] INFO  LoginPage - Clicking burger menu
+2025-10-02 21:57:01 [main] INFO  LoginPage - Clicking Logout button
+2025-10-02 21:57:01 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 21:57:01 [main] INFO  LoginTest - ----------------------Starting TC002:invalidLoginTest------------------------
+2025-10-02 21:57:01 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 21:57:02 [main] INFO  LoginPage - Entering the username: secret
+2025-10-02 21:57:02 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 21:57:02 [main] INFO  LoginTest - ----------------------Completed testing-----------------------
+2025-10-02 23:41:28 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 23:42:46 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 23:42:46 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 23:42:46 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 23:42:46 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 23:45:51 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 23:45:51 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 23:45:51 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 23:45:52 [main] INFO  LoginPage - Clicking the login button
+2025-10-02 23:51:14 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-02 23:51:14 [main] INFO  OrdersTest - Login
+2025-10-02 23:51:14 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-02 23:51:15 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-02 23:51:15 [main] INFO  LoginPage - Clicking the login button
+2025-10-03 00:25:12 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-03 00:25:12 [main] INFO  OrdersTest - ----------------------------------Starting TC003 Order oner item------------------------------------
+2025-10-03 00:25:12 [main] INFO  OrdersTest - Login
+2025-10-03 00:25:12 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-03 00:25:12 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-03 00:25:12 [main] INFO  LoginPage - Clicking the login button
+2025-10-03 00:25:13 [main] INFO  ProductsPage - Add to Cart Button Click
+2025-10-03 00:25:13 [main] INFO  ProductsPage - Cart Button Click
+2025-10-03 00:25:13 [main] INFO  CartPage - Finish Button click
+2025-10-03 00:25:13 [main] INFO  CartPage - enterFirstName
+2025-10-03 00:25:14 [main] INFO  CartPage - enterLastName
+2025-10-03 00:25:14 [main] INFO  CartPage - enterPostalCode
+2025-10-03 00:25:14 [main] INFO  CartPage - Continue Button click
+2025-10-03 00:25:14 [main] INFO  CartPage - Finish Button click
+2025-10-03 00:25:15 [main] INFO  OrdersTest - Test Case passed
+2025-10-03 00:25:15 [main] INFO  OrdersTest - ----------------------------------Completed testing------------------------------------------------
