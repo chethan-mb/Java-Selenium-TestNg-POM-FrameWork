@@ -37,7 +37,6 @@ public class LoginTest extends BaseTest{
 		login.clickLoginButton();
 		logger.info("----------------------Completed testing-----------------------");
 		Assert.assertTrue(login.checkErrorMessage(),"Error Message is not displayed");
-		
 	}
 
 	
