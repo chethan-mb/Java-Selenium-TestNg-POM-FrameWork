@@ -298,3 +298,92 @@
 2025-10-03 00:25:14 [main] INFO  CartPage - Finish Button click
 2025-10-03 00:25:15 [main] INFO  OrdersTest - Test Case passed
 2025-10-03 00:25:15 [main] INFO  OrdersTest - ----------------------------------Completed testing------------------------------------------------
+2025-10-06 18:26:25 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-06 18:26:25 [main] INFO  OrdersTest - ----------------------------------Starting TC003 Order oner item------------------------------------
+2025-10-06 18:26:25 [main] INFO  OrdersTest - Login
+2025-10-06 18:26:25 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-06 18:26:25 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-06 18:26:25 [main] INFO  LoginPage - Clicking the login button
+2025-10-06 18:26:25 [main] INFO  ProductsPage - Add to Cart Button Click
+2025-10-06 18:26:26 [main] INFO  ProductsPage - Cart Button Click
+2025-10-06 18:26:26 [main] INFO  CartPage - Checkout Button click
+2025-10-06 18:26:26 [main] INFO  CartPage - enterFirstName
+2025-10-06 18:26:26 [main] INFO  CartPage - enterLastName
+2025-10-06 18:26:26 [main] INFO  CartPage - enterPostalCode
+2025-10-06 18:26:27 [main] INFO  CartPage - Continue Button click
+2025-10-06 18:26:27 [main] INFO  CartPage - Finish Button click
+2025-10-06 18:26:27 [main] INFO  OrdersTest - Test Case passed
+2025-10-06 18:26:27 [main] INFO  OrdersTest - ----------------------------------Completed testing------------------------------------------------
+2025-10-06 18:27:59 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-06 18:27:59 [main] INFO  OrdersTest - ----------------------------------Starting TC003 Order oner item------------------------------------
+2025-10-06 18:27:59 [main] INFO  OrdersTest - Login
+2025-10-06 18:27:59 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-06 18:27:59 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-06 18:28:00 [main] INFO  LoginPage - Clicking the login button
+2025-10-06 18:28:00 [main] INFO  ProductsPage - Add to Cart Button Click
+2025-10-06 18:28:00 [main] INFO  ProductsPage - Cart Button Click
+2025-10-06 18:28:01 [main] INFO  CartPage - Checkout Button click
+2025-10-06 18:28:02 [main] INFO  CartPage - enterFirstName
+2025-10-06 18:28:03 [main] INFO  CartPage - enterLastName
+2025-10-06 18:28:03 [main] INFO  CartPage - enterPostalCode
+2025-10-06 18:28:04 [main] INFO  CartPage - Continue Button click
+2025-10-06 18:28:05 [main] INFO  CartPage - Finish Button click
+2025-10-06 18:28:05 [main] INFO  OrdersTest - Test Case passed
+2025-10-06 18:28:05 [main] INFO  OrdersTest - ----------------------------------Completed testing------------------------------------------------
+2025-10-06 18:31:46 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-06 18:31:46 [main] INFO  OrdersTest - ----------------------------------Starting TC003 Order oner item------------------------------------
+2025-10-06 18:31:46 [main] INFO  OrdersTest - Login
+2025-10-06 18:31:46 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-06 18:31:46 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-06 18:31:46 [main] INFO  LoginPage - Clicking the login button
+2025-10-06 18:31:47 [main] INFO  ProductsPage - Add to Cart Button Click
+2025-10-06 18:31:47 [main] INFO  ProductsPage - Cart Button Click
+2025-10-06 18:31:47 [main] INFO  CartPage - Checkout Button click
+2025-10-06 18:31:47 [main] INFO  CartPage - enterFirstName
+2025-10-06 18:31:48 [main] INFO  CartPage - enterLastName
+2025-10-06 18:31:48 [main] INFO  CartPage - enterPostalCode
+2025-10-06 18:31:48 [main] INFO  CartPage - Continue Button click
+2025-10-06 18:31:48 [main] INFO  CartPage - Finish Button click
+2025-10-06 18:31:49 [main] INFO  OrdersTest - Test Case passed
+2025-10-06 18:31:49 [main] INFO  OrdersTest - ----------------------------------Completed testing------------------------------------------------
+2025-10-06 18:32:29 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-06 18:32:29 [main] INFO  OrdersTest - ----------------------------------Starting TC003 Order oner item------------------------------------
+2025-10-06 18:32:29 [main] INFO  OrdersTest - Login
+2025-10-06 18:32:29 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-06 18:32:29 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-06 18:32:29 [main] INFO  LoginPage - Clicking the login button
+2025-10-06 18:32:30 [main] INFO  ProductsPage - Add to Cart Button Click
+2025-10-06 18:32:30 [main] INFO  ProductsPage - Cart Button Click
+2025-10-06 18:32:30 [main] INFO  CartPage - Checkout Button click
+2025-10-06 18:32:30 [main] INFO  CartPage - enterFirstName
+2025-10-06 18:32:30 [main] INFO  CartPage - enterLastName
+2025-10-06 18:32:30 [main] INFO  CartPage - enterPostalCode
+2025-10-06 18:32:31 [main] INFO  CartPage - Continue Button click
+2025-10-06 18:32:31 [main] INFO  CartPage - Finish Button click
+2025-10-06 18:32:31 [main] INFO  OrdersTest - Test Case passed
+2025-10-06 18:32:31 [main] INFO  OrdersTest - ----------------------------------Completed testing------------------------------------------------
+2025-10-06 18:33:09 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-06 18:33:09 [main] INFO  OrdersTest - ----------------------------------Starting TC003 Order oner item------------------------------------
+2025-10-06 18:33:09 [main] INFO  OrdersTest - Login
+2025-10-06 18:33:09 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-06 18:33:09 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-06 18:33:09 [main] INFO  LoginPage - Clicking the login button
+2025-10-06 18:33:09 [main] INFO  ProductsPage - Add to Cart Button Click
+2025-10-06 18:33:09 [main] INFO  ProductsPage - Cart Button Click
+2025-10-06 18:33:10 [main] INFO  CartPage - Checkout Button click
+2025-10-06 18:33:10 [main] INFO  CartPage - enterFirstName
+2025-10-06 18:33:10 [main] INFO  CartPage - enterLastName
+2025-10-06 18:33:10 [main] INFO  CartPage - enterPostalCode
+2025-10-06 18:33:11 [main] INFO  CartPage - Continue Button click
+2025-10-06 18:33:11 [main] INFO  CartPage - Finish Button click
+2025-10-06 18:33:11 [main] INFO  OrdersTest - Test Case passed
+2025-10-06 18:33:11 [main] INFO  OrdersTest - ----------------------------------Completed testing------------------------------------------------
+2025-10-06 18:33:13 [main] INFO  BaseTest - Opened chrome with URL: https://www.saucedemo.com/
+2025-10-06 18:33:13 [main] INFO  LoginTest - ----------------------Starting TC001:validLoginTest------------------------
+2025-10-06 18:33:13 [main] INFO  LoginPage - Entering the username: standard_user
+2025-10-06 18:33:14 [main] INFO  LoginPage - Entering the username: secret_sauce
+2025-10-06 18:33:14 [main] INFO  LoginPage - Clicking the login button
+2025-10-06 18:33:14 [main] INFO  LoginTest - Test Case Passsed
+2025-10-06 18:33:14 [main] INFO  LoginPage - Clicking burger menu
+2025-10-06 18:33:14 [main] INFO  LoginPage - Clicking Logout button
+2025-10-06 18:33:14 [main] INFO  LoginTest - ----------------------Completed testing-----------------------

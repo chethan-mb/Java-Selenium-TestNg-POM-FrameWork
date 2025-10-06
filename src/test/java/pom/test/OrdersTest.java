@@ -13,7 +13,7 @@ public class OrdersTest extends BaseTest {
 	private static final Logger logger = LogManager.getLogger(OrdersTest.class);
 	
 	@Test(groups="SMOKE")
-	public void orderOneItem() {
+	public void orderOneItem() throws InterruptedException {
 		logger.info("----------------------------------Starting TC003 Order oner item------------------------------------");
 		logger.info("Login");
 		login.login("standard_user", "secret_sauce");

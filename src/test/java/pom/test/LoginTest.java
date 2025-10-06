@@ -10,7 +10,7 @@ public class LoginTest extends BaseTest{
 	
 	private static final Logger logger = LogManager.getLogger(LoginTest.class);
 	
-	@Test(priority=0)
+	@Test(priority=0,groups="SMOKE")
 	public void validLoginTest() {
 		logger.info("----------------------Starting TC001:validLoginTest------------------------");
 		login.enterUserName("standard_user");
@@ -29,7 +29,7 @@ public class LoginTest extends BaseTest{
 		logger.info("----------------------Completed testing-----------------------");
 	}
 	
-	@Test(priority=1)
+	@Test(priority=1,groups="Regression")
 	public void invalidLoginTest() {
 		logger.info("----------------------Starting TC002:invalidLoginTest------------------------");
 		login.enterUserName("standard_user");
